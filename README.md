@@ -20,7 +20,7 @@ It works great with these and likely many others too.
 
 ---
 
-##### An Real Example:
+### An Real Example:
 
 We developed an app ([link](./assets/original.apk)) that simulates typical malicious operations, such as reading and uploading sensitive data like contacts, SMS, and geolocation. Unsurprisingly, it was flagged by several security engines, including Google Play Protect. You can check out the VirusTotal scan results [here](https://www.virustotal.com/gui/file/9b3c0e7b7bb015aaa8635c2e37208d6c406e5b5d631b994f5811932374da9cb5).
 
