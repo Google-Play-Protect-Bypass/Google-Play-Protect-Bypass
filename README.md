@@ -26,6 +26,10 @@ We developed an app ([link](./assets/original.apk)) that simulates typical malic
 
 However, after embedding the original APK inside our custom installer, the base APK successfully [passes all security checks](https://www.virustotal.com/gui/file/58ba4b98bb43ee953ef9fdb02bcc9594b368fe83963b1975130ba58a5112317e), including Google Play Protect. You can [download](./assets/protected-installer.apk) the installer and try it on your own device. Below is a complete screen recording of the process for you to see it in action.
 
+
+https://github.com/user-attachments/assets/34dd1d6f-8f74-4eff-abf1-b64dad12f52d
+
+
 ## Try It Now
 
 Want to see for yourself? Contact us for a free trial and get your app past Google Play Protect with ease!
