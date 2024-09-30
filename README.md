@@ -1,6 +1,6 @@
 # Bypass Google Play Protect (virus scan bypass)
 
-If Google Play Protect is blocking your app, you're not alone. Security scans are great for protecting users, but they can sometimes create unnecessary roadblocks. We get it—and we've got a solution for you.
+If Google Play Protect is blocking your app, you're not alone. Security scans can sometimes create unnecessary roadblocks for certain types of awesome software. We get it—and we've got a solution for you.
 
 > ![](assets/detected.png)
 
