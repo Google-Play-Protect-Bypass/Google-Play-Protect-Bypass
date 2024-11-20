@@ -32,6 +32,15 @@ https://github.com/user-attachments/assets/34dd1d6f-8f74-4eff-abf1-b64dad12f52d
 
 Want to see for yourself? Contact us for a free trial and get your app past Google Play Protect with ease!
 
+Price (protect one apk for one month consumes one token)
+
+- $30 for 1 token
+- $100 for 5 tokens
+- $500 for 35 tokens
+- let's chat if you have more than 70 apk
+
+---
+
 - Recommended: the [telegram bot](https://t.me/google_protect_bypass_bot) (try it for free).
 
 - [Telegram](https://t.me/m/Vrkx6ng1MmJh)
