@@ -37,6 +37,7 @@ Price (protect one apk for one month consumes one token)
 - $35 for 1 token
 - $100 for 5 tokens
 - $500 for 35 tokens
+- $1000 for 100 tokens
 - let's chat if you have more than 70 apk or can't accept the monthly plan
 
 ---
