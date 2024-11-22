@@ -34,10 +34,13 @@ Want to see for yourself? Contact us for a free trial and get your app past Goog
 
 Price (protect one apk for one month consumes one token)
 
-- $35 for 1 token
-- $100 for 5 tokens
-- $300 for 20 tokens
-- $550 for 100 tokens (**valid for one month**)
+- $50 for 1 token
+
+- $100 for 3 tokens
+
+- $300 for 12 tokens
+
+- $550 for 35 tokens (**valid for one month**)
 
 ---
 
