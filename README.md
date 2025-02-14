@@ -32,9 +32,11 @@ https://github.com/user-attachments/assets/34dd1d6f-8f74-4eff-abf1-b64dad12f52d
 
 Want to see for yourself? Contact us for a free trial and get your app past Google Play Protect with ease!
 
-- Recommended: the [telegram bot](https://t.me/google_protect_bypass_bot) (try it for free).
+- **Recommended:** [Windows app](https://github.com/android-virus-scan-windows-app/windows-app)
 
-- [Telegram](https://t.me/m/Vrkx6ng1MmJh)
+- [Telegram bot](https://t.me/google_protect_bypass_bot)
+
+- [Telegram Support](https://t.me/m/Vrkx6ng1MmJh)
 
 - Email: [play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me)
   
