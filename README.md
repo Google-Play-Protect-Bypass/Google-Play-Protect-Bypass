@@ -36,7 +36,7 @@ Want to see for yourself? Contact us for a free trial and get your app past Goog
 
 - [Telegram bot](https://t.me/google_protect_bypass_bot)
 
-- [Telegram Support](https://t.me/m/Vrkx6ng1MmJh)
+- [Telegram Support](https://t.me/realghostofc)
 
 - Email: [play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me)
   
