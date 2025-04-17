@@ -38,23 +38,3 @@ Want to see for yourself? Contact us for a free trial and get your app past Goog
 
 - [Telegram Channel](https://t.me/bypass_offical)
 
-- Email: [play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me)
-  
-  - GPG public key
-  
-  - > ```
-    > -----BEGIN PGP PUBLIC KEY BLOCK-----
-    > 
-    > mDMEZvrbKRYJKwYBBAHaRw8BAQdApMYCkhGrg8nJ1wC/MCHQdPT2xt29HiGbVbSq
-    > eNB1sQS0Okdvb2dsZSBQbGF5IFByb3RlY3QgQnlwYXNzIDxwbGF5LXByb3RlY3Qt
-    > YnlwYXNzQHByb3Rvbi5tZT6ImQQTFgoAQRYhBLM8aXFLSzHAqgcvKlIrif955Crn
-    > BQJm+tspAhsDBQku/geABQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEFIr
-    > if955Crns2wA/jbAlrZtVP11aNHvERHCne3NgjquyIHyaR2fj43ZlnGxAP49RtMJ
-    > WlfM/dXGQhzGB/+NkZFZ0q+FygJfK0wqfW6BBrg4BGb62ykSCisGAQQBl1UBBQEB
-    > B0CqaCwWRUGgqHMHrO5c479kPWpM4vUVArkCX85I4XHIEwMBCAeIfgQYFgoAJhYh
-    > BLM8aXFLSzHAqgcvKlIrif955CrnBQJm+tspAhsMBQku/geAAAoJEFIrif955Crn
-    > NUUBAIYqWiAmUsSsxWlDUu02E6lcGfxETrryN0Qvdsaf8UIIAP9865wxleWEGU8h
-    > gZgME+G1kY91nNTyu2ucn/G7Y8eAAQ==
-    > =q6GV
-    > -----END PGP PUBLIC KEY BLOCK-----
-    > ```
