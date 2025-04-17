@@ -34,7 +34,9 @@ Want to see for yourself? Contact us for a free trial and get your app past Goog
 
 - **Recommended:** [Website](https://android-dropper.pages.dev/)
 
-- [Telegram bot](https://t.me/google_protect_bypass_bot)
+- [Telegram bot](https://t.me/protect_bypass_bot)
+
+- [Telegram Channel](https://t.me/bypass_offical)
 
 - Email: [play-protect-bypass@proton.me](mailto:play-protect-bypass@proton.me)
   
